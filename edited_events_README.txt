@@ -30,3 +30,5 @@ Formulas
 F_URL_EventsExt_History (to Q_REPORT_RUN)
 F_B_SumVersionNbr
 
+Link Data Container:
+Parameters/Value: P_URL_EVENTS_EXT = F_URL_EVENTSEXT_HISTORY
