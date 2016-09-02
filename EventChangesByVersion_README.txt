@@ -6,6 +6,8 @@ When an event is created in 25Live, it starts with version 1. Each save after in
 
 Note: It appears that an event created in R25 starts with Version 0.
 
+Since created events are version 1 in 25Live, you could add a filter to only look at VERSION_NUMBER > 1 and it would not show created events (except those created in R25 and edited once. :) ) 
+
 Fields in the report:
 Event Locator
 Event Name
