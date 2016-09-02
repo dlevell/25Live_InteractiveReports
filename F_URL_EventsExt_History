@@ -1,0 +1,5 @@
+@base_url +
+'events.xml?query_id='+
+@ev_query_id +
+'&scope=extended&include=history&session_id='+
+@session_id
