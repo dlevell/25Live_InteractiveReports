@@ -22,3 +22,11 @@ Event Search
 Queries used:
 Q_REPORT_RUN
 Q_EV_EXT_HIST
+
+Summaries:
+Sum_Version_Nbr
+
+Formulas
+F_URL_EventsExt_History (to Q_REPORT_RUN)
+F_B_SumVersionNbr
+
