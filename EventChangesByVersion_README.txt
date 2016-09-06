@@ -17,6 +17,7 @@ Last Modified Date
 Last Modified User
 Version number
 Summary of version number
+NEED TO ADD: Event Search to Footer
 
 Parameters needed in 25Live:
 Event Search
